@@ -19,7 +19,7 @@ Make sure you have Python and pip installed on your system.
 
 Create a virtual environment and activate it.
 
-Install the dependencies using pip install -r requirements.txt.
+Download packages: Django - Django rest framework
 
 Start the Django development server using python manage.py runserver.
 
